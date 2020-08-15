@@ -65,3 +65,12 @@ This is expressed as a % in a time period, or the revenue lost
 7) Analysis of Segmentation (similar attributes, % of total population, perceptual maps)
 8) Link to Business Strategy (Marketing).  Identify opportunities and KPIs
 
+## Screenshots & Charts
+
+## Code Example
+
+## Installation
+
+## How to use
+
+## Credits
