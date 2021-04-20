@@ -1,0 +1,19 @@
+* Simulat initial discussion with stakeholder to determine goals and useful variables
+* Semantic analysis of PS5 reaction
+* Find the segments, then find useful demographic/socio-economic data to describe as its useful for marketing decisions.
+* Need to include forecasting (for behaviours, or numbers)
+* dont use infinite horizon for CLV.  Use discount rate of 2%, retention rate of >70%. with these numbers, in first 5 years, retention rate:CLV = 70:85, 80:70, 90:47.  If retention rate is very high, a lot of the CLV will be coming after 5 years.
+* Scrape Twitch API
+* Need SQL database
+* AWS Pinpoint.  Collects data from email, sms, in-app, voice.  Can then put in S3 bucket.  Pinpoint engagement data.
+This is then added to S3 for CRM data (customer demographic, subscription data).  
+    - Helps to understand why the customers are leaving us.  i.e. model from sagemaker shows segment likely to churn.  
+    - Send segment to pinpoint
+    - this then sends a promotional email to prevent churn/campaign dedicated to that segment
+* Set seaborn style and colors etc at top of notebook, with the imports.
+* When making custom functions, put in: 
+    """ Aim   --> abcdefgh
+        Input --> abcdefgh
+        Output--> abcdefgh """
+
+
