@@ -17,3 +17,7 @@ This is then added to S3 for CRM data (customer demographic, subscription data).
         Output--> abcdefgh """
 
 * Make a dashboard with tableau that marketing team can use. 
+    * Can also just use this blog to make an interactive dashboard: 
+    https://medium.com/analytics-vidhya/how-to-create-an-interactive-dashboard-in-python-using-holoviz-panel-2de350b6d8df
+    or this is the live version (which shows the code)
+    https://foxnic.github.io/simple_dashboard.html
