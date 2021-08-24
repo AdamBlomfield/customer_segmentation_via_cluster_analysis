@@ -72,5 +72,8 @@ This is expressed as a % in a time period, or the revenue lost
 ## Installation
 
 ## How to use
+The virtual environment for this project has been saved in the spec-file.txt.  To recreate this project, simply clone the project to a local machine and assuming you have Conda installed, run the following from the command line in the project's home directory:
+>> conda create --name mynewenvname --file spec-file.txt
+
 
 ## Credits
