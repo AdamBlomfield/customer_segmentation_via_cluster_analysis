@@ -1,4 +1,3 @@
-test
 # Customer Segmentation via Cluster Analysis
 
 ## Project Overview

@@ -1,0 +1,40 @@
+Project will be implementing customer segmentation using RFM(Recency, Frequency, Monetary) analysis
+    
+Large amount of Customer Data is generated in Retail sector.  This can be analysed in order to help with strategy
+Customers all have different needs, these needs become harder to tailor for as the customer base grows.  
+Identifying potential customers can improve the marketing campagin --> greater sales
+this can be done by segmenting customers into various groups, which can then be targeted.
+
+What is Customer Segmentation?
+The method of dividing customers into groups/clusters based on common characteristics.  
+
+
+Need of Customer Segmentation
+By dividing customers into similar groups, a tailored approach can be taken:
+    different communication channels
+    identify which products have a strong chance of being upsold
+    design of specific special offers
+Helps to stay ahead of competition
+identify customers with most potential
+improved customer relations by understanding their needs better
+
+Types of Segmentation
+Demographic - Gender, Age, Company Size
+Geographic - Location
+Behavioural - Spending habits, Previously purchased products
+Psychographic - Lifestyle
+
+Customer Segmentation using RFM Analysis
+RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. 
+It groups the customers on the basis of their previous purchase transactions. How recently, how often, and how much did a customer buy. 
+RFM filters customers into various groups for the purpose of better service. It helps managers to identify potential customers to do more profitable business. There is a segment of customer who is the big spender but what if they purchased only once or how recently they purchased? Do they often purchase our product? Also, It helps managers to run an effective promotional campaign for personalized service.
+
+Recency (R): Number of days since last purchase
+Frequency (F): Total number of purchases
+Monetary Value(M): Total money customer spent
+Here, Each of the three variables(Recency, Frequency, and Monetary) consists of four equal groups, which creates 64 (4x4x4) different customer segments.
+
+Steps of RFM(Recency, Frequency, Monetary):
+Calculate the Recency, Frequency, Monetary values for each customer.
+Add segment bin values to RFM table using quartile.
+Sort the customer RFM score in ascending order.
