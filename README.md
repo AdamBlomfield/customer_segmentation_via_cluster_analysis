@@ -5,8 +5,10 @@ Using Machine Learning Modeling to perform customer segmentation via cluster ana
 
 ## Motivation
 
+# Customer Segmentation via Cluster Analysis
 
-## Customer Segmentation via Cluster Analysis
+## Project Overview
+Using Machine Learning Modeling to perform customer segmentation via cluster analysis and make data-driven business decisions.
 
 ### What is Customer Segmentation?
 The practice of dividing customer data into groups that reflect the similarities amongst customers.  Segmentation is also referred to as clustering.  These homoegeneous groups (segments/clusters) are sometimes referred to as "*customer archetypes*" or "*personas*".
@@ -57,6 +59,8 @@ This is expressed as a % in a time period, or the revenue lost
 ## Project Structure
 
 1) Identify Business Issues
+    a) Which Customers are our biggest spenders?
+    b) Which Previously Big Customers have not purchased anything recently?
 2) Generate Hypotheses
 3) Decide on Data to Collect
 4) Gather Data
